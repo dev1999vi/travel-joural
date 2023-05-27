@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    height: 55px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(245, 90, 90, 1);
+    margin-bottom: 9px;
+}
+
+.navbar h3{
+    color: white;
+    margin-left: 10px;
+}
